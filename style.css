@@ -1,0 +1,30 @@
+body {
+    background-image: url(lugh.jpg);
+}
+
+header {
+    color: rgb(255, 115, 0);
+    border-width: 1px 4px 12px 4px;
+    border-color: sienna;
+    border-style: double;
+    padding: 20px;
+    margin: 30px;
+}
+
+footer {
+    color: cornsilk;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    border-width: 1px 4px 12px 4px;
+    border-color: rgb(255, 255, 255);
+    border-style: double;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    border-width: 1px 4px 12px 4px;
+    border-color: rgb(255, 255, 255);
+    border-style: double;
+}
